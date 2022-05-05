@@ -1,5 +1,5 @@
-budget/*.sqlite3
-budget/budget/__pycache__/
-budget/*/__pycache__/
-budget/*/*/__pycache__/
-budget/.env
+*.sqlite3
+runtime.txt
+*/__pycache__
+
+
