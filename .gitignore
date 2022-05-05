@@ -1,0 +1,5 @@
+budget/*.sqlite3
+budget/budget/__pycache__/
+budget/*/__pycache__/
+budget/*/*/__pycache__/
+budget/.env
